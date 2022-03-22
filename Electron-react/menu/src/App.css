@@ -1,0 +1,103 @@
+.navbar{
+  padding: 0%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.nav-link{
+  color: black;
+  font-size: x-large;
+ 
+}
+
+.nav-link:hover{
+  color: black;
+  text-decoration: underline;
+}
+
+
+.myButton {
+	box-shadow: 0px 1px 0px 0px #3dc21b;
+	background:linear-gradient(to bottom, #f28585 5%, #5cbf2a 100%);
+	background-color:#f28585;
+	border-radius:6px;
+	border:1px solid #30c73f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:8px 6px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #345e3d;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #5cbf2a 5%, #f28585 100%);
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+  top:1px;
+  outline:none;
+}
+
+        
+
+.navbar-dark {
+  
+  background-color: #00b4d8;
+}
+
+
+.footer{
+  background-color: #bab39e;
+  margin:0px auto;
+  padding: 20px 0px 20px 0px;
+}
+
+.footer a{
+  color: black;
+}
+
+.hero{
+  background-image: url('./public/static/hero.jpg');
+  width: 100%;
+  height: 500px;
+
+  
+}
+
+.herocard{
+  background-color: aliceblue;
+  width: 50%;
+  height: 300px;
+  margin-right: 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.list{
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  
+  padding: 2rem;
+ 
+}
+
+.login-container{
+  background-image: url('./public/static/herokabhai.jpg');
+  width: 100%;
+  height: 500px;  
+  background-repeat: no-repeat;
+  
+}
+.login-card {
+  margin-right: 0;
+  padding-top: 7rem;
+  position: relative;
+  
+}

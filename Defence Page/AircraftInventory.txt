@@ -1,0 +1,59 @@
+firghter:-
+
+Dassault Rafale
+Sukhoi Su-30
+MiG-29
+HAL Tejas
+Mirage 2000
+SEPECAT Jaguar
+MiG-21
+
+helicopter:-
+
+Boeing AH-64
+CH-47 Chinook
+HAL Light Combat Helicopter
+HAL Light Utility Helicopter
+Mil Mi-17
+HAL Dhruv
+HAL Rudra
+Mil Mi-24
+Mil Mi-17
+
+
+
+transport:-
+
+Boeing C-17
+Ilyushin Il-76
+C-130J Super Hercules
+Antonov An-32
+Dornier Do 228
+Airbus C-295
+Embraer Legacy 600
+
+tranier:-
+
+Pilatus PC-7
+MiG-21
+SEPECAT Jaguar
+BAE Hawk
+HAL Kiran
+
+
+Unmanned aerial vehicles (uav)
+
+IAI Harop
+IAI Eitan
+IAI Heron
+IAI Searcher
+DRDO Rustom
+DRDO Lakshya
+
+tanker:- 
+Ilyushin Il-78
+
+Aewacs:- 
+EMB-145
+Beriev A-50
+

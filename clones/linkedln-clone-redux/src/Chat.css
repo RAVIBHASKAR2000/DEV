@@ -1,0 +1,13 @@
+.chatbox{
+    margin: 5px;
+    background-color: #707070;
+    color: white;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+.chatbox__upper{
+    display: flex;
+    flex-direction: row;
+
+}

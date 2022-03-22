@@ -1,0 +1,58 @@
+.avatarfront{
+   
+   
+}
+
+
+.avatarname{
+    margin-left: 3%;
+    opacity: 0.8;
+}
+
+.profilemain{
+    display: flex;
+    flex-direction: row;
+}
+
+.avatarfront{
+    flex: 0.3;
+    text-align: center;
+}
+
+.profilemiddle{
+    flex: 0.7;
+    margin-right: 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+
+}
+
+
+.eventbox{
+    display: flex;
+    flex-direction: row;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    
+    margin: 10px;
+    border-radius: 10px;
+    overflow: hidden;
+    cursor: pointer;
+
+}
+
+.box:hover{
+    opacity: 1;
+    box-shadow: 0 1rem 4rem rgba(0, 0, 0, 0.897);
+      z-index: 20;
+    
+    transform: scale(1.1);
+}
+
+.middle{
+    display: flex;
+    flex-direction: row;
+}

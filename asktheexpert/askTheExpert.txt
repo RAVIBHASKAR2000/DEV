@@ -1,0 +1,25 @@
+askTheExpert!!
+
+A platform for experts and for people to ask their doubt to the experts and get in depth details
+
+They ask question from experts , experts ans the question and the ans will be only 
+visible when they people pays 100 rs to the experts  in which 10% is cut for the platform for convenience.
+
+
+user account -- auth by gmail....  name , age , sex, profession . 
+
+experts account --- name age sex photo expertise, profession , experince , about me,  number of question ans , likes, consultant fee. 
+			bank details 
+			 
+
+
+payment gateway!!!!>
+
+
+
+
+
+
+
+
+
